@@ -1,0 +1,1 @@
+# n-ye-kadar-olan-asal-sayilari-ve-sayisini-basan-proram-
